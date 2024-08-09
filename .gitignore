@@ -3,3 +3,8 @@
 /cuda-repo-wsl-ubuntu-12-4-local_12.4.1-1_amd64.deb
 /poetry.lock
 /test_main.http
+data/modified_data/BTC-2017min_modified.csv
+data/original_data/BTC-2017min.csv
+data/original_data/BTC-2018min.csv
+data/modified_data/BTC-2018min_modified.csv
+data/with_preds/BTC-2018min_with_preds.csv
